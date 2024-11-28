@@ -29,6 +29,6 @@ PMA_VERSION = "5.2.1" // You can set your choice
 ```
 version: latest // You can set your choice
 ```
-## note: 
+## Note: 
 
 How it will chmod  ```a+x connect_server.sh``` & ```sudo ./connect_server.sh``` If you find any issues, let me know. I will happily fix it them, Let me know how I can assist you! 😊
