@@ -23,11 +23,17 @@ PMA_VERSION = "5.2.1" // You can set your choice
 # Phpmyadmin version
 ```
 PMA_VERSION = "5.2.1" // You can set your choice
+You can access phpMyAdmin at http://$TARGET_SERVER/phpmyadmin
+Username: shell
+Password: PASSWORD
 ```
 
 # php & mysql version
 ```
 version: latest // You can set your choice
+Mysql access by 
+Username: shell
+Password: PASSWORD
 ```
 ## Note: 
 
